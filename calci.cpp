@@ -23,5 +23,10 @@ class CALC
 		divide = a / b;
 	}
 
-	
+	void display()
+	{
+		cout<<"enter two values"<<endl;
+		cin>>a,b;
+	}
+
 
